@@ -1,3 +1,13 @@
+ /*
+    estudantes:
+    nome:                           Matrícula:
+    André Corrêa da Silva           20/0014447
+    Victor Hugo Oliveira Leão       20/0028367
+    Diógenes Dantas Lélis Júnior    19/0105267
+ 
+ */
+
+
 %{
 int countCPF = 0;
 int countRG = 0;
